@@ -1,10 +1,14 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import axios from "axios";
 import Products from "./Products";
 import Options from "./Options";
+import { ProductOrderContext } from "../context/ProductOrderContext";
 
 const Type = ({ orderType }) => {
+  const [order, updateOrderList] = useContext(ProductOrderContext);
+  console.log(order);
   const [items, setItems] = useState([]);
+
   useEffect(() => {
     loadItems(orderType);
   }, [orderType]);
@@ -27,6 +31,10 @@ const Type = ({ orderType }) => {
       name={item.name}
       imagePath={item.imagePath}
       description={item.description}
+      productCode={item.productCode}
+      updateOrderList={(productCode, qty) =>
+        updateOrderList(productCode, qty, orderType)
+      }
     />
   ));
 
@@ -34,7 +42,7 @@ const Type = ({ orderType }) => {
     <div>
       <h2>{orderType} 주문</h2>
       <p>{orderType} 하나의 가격</p>
-      <p>총 가격 : </p>
+      <p>총 가격 : {Number(order.totals[orderType]).toLocaleString()} 원</p>
       <div
         style={{
           display: "flex",

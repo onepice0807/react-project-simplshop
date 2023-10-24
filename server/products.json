@@ -1,11 +1,15 @@
 {
   "products": [
     {
-      "name": "사장학개론",
-      "imagePath": "https://image.yes24.com/goods/117958120/XL",
-      "description": "이 책은 한국과 미국, 전 세계를 오가며 ‘사장을 가르치는 사장’으로 알려진 『돈의 속성』의 저자 김승호 회장의 신간이다. 평생 사장으로 살아온 그의 경영철학 모두를 10여 년에 걸쳐 정리해 온 그는, 이번 『사장학개론』 책을 통해 120가지 주제로 그 내용을 모두 담아 완성했다. 지난 7년간 3천 명의 사장 제자들을 만나 [사장학 수업]을 진행하며 현실에서 겪는 다양한 문제에 대해, 사장들이 묻는 공통적인 어려움이 존재했으며 그 문제들을 목차로 구성해 방향제시를 더했다."
+      "productCode": "S000209007998",
+      "name": "트렌드 코리아 2024",
+      "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788959897179.jpg",
+      "description": "2024 대한민국 소비트렌드 전망",
+      "price": "17,100",
+      "author": "김난도 , 전미영 , 최지혜 , 이수진 , 권정윤 , 한다혜 , 이준영 , 이향은 , 이혜원 , 추예린 , 전다현"
     },
     {
+      "productCode": "S000210694884",
       "name": "초거대 AI 디지털 플랫폼 레볼루션 1",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191517590.jpg",
       "description": "플랫폼 비즈니스의 현재와 미래",
@@ -13,6 +17,7 @@
       "author": "현영근 , 이주연"
     },
     {
+      "productCode": "S000210684105",
       "name": " 먹는 경제학",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791170222699.jpg",
       "description": "음식 속에 숨은 경제 이야기",
@@ -20,6 +25,7 @@
       "author": "시모카와 사토루 · 박찬 번역"
     },
     {
+      "productCode": "S000210694878",
       "name": "LG 오디세이아",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791198260529.jpg",
       "description": "구인회 LG그룹 창업 회장이야기",
@@ -27,6 +33,7 @@
       "author": "백인호"
     },
     {
+      "productCode": "S000210684226",
       "name": "데이터 경영을 위한 파이썬",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791155816516.jpg",
       "description": "성공하는 CEO의 시스템 분석 툴",
@@ -34,6 +41,7 @@
       "author": "마탄 그리펠 , 대니얼 게타 · 박찬성 번역"
     },
     {
+      "productCode": "S000210626501",
       "name": " 지속가능 기업을 위한 ESG 경영",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788959729869.jpg",
       "description": "4, 5차 산업혁명과 ESG 경영은 인류의 공동 번영을 향한 새로운 길의 모색이며 그동안의 시행착오를 고칠 종합처방전",
@@ -41,6 +49,7 @@
       "author": "황인극 , 손환식 , 강성진"
     },
     {
+      "productCode": "S000210683843",
       "name": "고교 선생님의 특별한 금융경제 수업",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163221111.jpg",
       "description": "100억을 벌려면 10대부터 시작하라",
@@ -48,6 +57,7 @@
       "author": "조부연 , 이승희"
     },
     {
+      "productCode": "S000210684225",
       "name": "리더의 지혜",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191349917.jpg",
       "description": "리더십은 간단하다, 하지만 쉽지는 않다“",
@@ -55,6 +65,7 @@
       "author": "윌리엄 H. 맥레이븐· 이재욱 번역"
     },
     {
+      "productCode": "S000210626839",
       "name": "비즈니스 경쟁에서 승리하는 법",
       "imagePath": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791198310255.jpg",
       "description": "억만장자 마크 큐반이 전하는 성공 철학을 담은 책이다.",
